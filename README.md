@@ -14,7 +14,7 @@ J'ai ainsi développé mon projet en HTML, CSS, PHP, Ajax et jQuery avec l'aide 
 
 
 <p align="center" style="margin-top:15px;">
-![alt text](https://sg.fiverrcdn.com/photos/98160141/original/ad6b67ec7a21da41094f39c3ebe5e5f48c57cb6d.png?1497007400)
+<img src="https://sg.fiverrcdn.com/photos/98160141/original/ad6b67ec7a21da41094f39c3ebe5e5f48c57cb6d.png?1497007400" width="300px">
 </p>
 
 
