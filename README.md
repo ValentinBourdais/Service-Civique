@@ -14,11 +14,14 @@ J'ai ainsi développé mon projet en HTML, CSS, PHP, Ajax et jQuery avec l'aide 
 
 
 <p align="center" style="margin-top:15px;">
-<img src="https://sg.fiverrcdn.com/photos/98160141/original/ad6b67ec7a21da41094f39c3ebe5e5f48c57cb6d.png?1497007400" width="300px">
+<img src="https://sg.fiverrcdn.com/photos/98160141/original/ad6b67ec7a21da41094f39c3ebe5e5f48c57cb6d.png?1497007400" width="500px">
 </p>
 
 
-*Structuration de la base de données*
+<p align="center" style="margin-top:15px;">
+  <img src="https://image.prntscr.com/image/-MdwyXVCS8W0C4ifqS0wAQ.jpeg">
+  <i><b>Structuration de la base de données</i></b>
+</p>
 La base de données dispose de deux tables reliés entre elles afin de gérer le type d'élément qui est présent dans l'inventaire.
 
 
