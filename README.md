@@ -9,7 +9,14 @@ Il était important d'analyser toutes les demandes lié à ce projet. Il était 
 
 Avant de commencer le projet, il à fallut voir pour développer quelque chose de simple d'utilisation et ne nécessitant aucune installation, le tout étant compatible ordinateur, tablette et smartphone. La solution d'interface web à donc retenu mon attention.
 J'ai ainsi développé mon projet en HTML, CSS, PHP, Ajax et jQuery avec l'aide du Framework gratuit MaterializeCSS.
+
+
+
+
+<p align="center" style="margin-top:15px;">
 ![alt text](https://sg.fiverrcdn.com/photos/98160141/original/ad6b67ec7a21da41094f39c3ebe5e5f48c57cb6d.png?1497007400)
+</p>
+
 
 *Structuration de la base de données*
 La base de données dispose de deux tables reliés entre elles afin de gérer le type d'élément qui est présent dans l'inventaire.
